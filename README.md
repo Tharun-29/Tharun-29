@@ -8,7 +8,7 @@ Experienced Software Test Engineer adept in both manual testing methodologies an
 
 * 🌍  I'm based in Bangalore, Bengaluru, Karnataka, IND
 * ✉️  You can contact me at [tharun.subramani007@gmail.com](mailto:tharun.subramani007@gmail.com)
-* 🧠  I'm learning GraphQL, Appium, Jmeter
+* 🧠  I'm learning GraphQL, Jmeter, Appium.
 * 🤝  I'm open to collaborating on Selenium, RestAssured Based Automation Projects
 * ⚡  I'm a Tester
 
